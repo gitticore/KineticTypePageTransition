@@ -15,12 +15,12 @@ html, body {
 
 body {
 	margin: 0;
-	--color-text: #000;
-	--color-text-alt: #000;
-	--color-bg: #DC143C;
-	--color-link: #000;
-	--color-link-hover: #000;
-	--color-link-alt: #000;
+	--color-text: red;
+	--color-text-alt: red;
+	--color-bg: black;
+	--color-link: red;
+	--color-link-hover: red;
+	--color-link-alt: red;
 	--color-type: #000;
 	--type-line-opacity: 0.05;
 	color: var(--color-text);
@@ -72,6 +72,7 @@ body {
     font-family: 'Shoguns Clan';
     font-weight: normal;
     font-style: normal;
+	font-size: 150px;
 }
 
 @keyframes loaderAnim {
@@ -116,7 +117,7 @@ a:focus-visible {
 	/* Draw a very noticeable focus style for
 	 keyboard-focus on browsers that do support
 	 :focus-visible */
-	outline: 2px solid red;
+	outline: 2px solid black;
 	background: transparent;
 }
 
@@ -321,7 +322,7 @@ main {
     left: 0;
     opacity: 0;
     pointer-events: none;
-    stroke: #000;
+    stroke: #823725;
     z-index: 1000;
     cursor: pointer;
     width: 50px;
