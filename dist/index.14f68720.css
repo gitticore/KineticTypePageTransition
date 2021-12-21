@@ -32,14 +32,14 @@ body {
 
 @font-face {
     font-family: 'Shoguns Clan';
-    src: url('../fonts/shoguns-clan.regular.ttf') format('truetype');
+    src: url('shoguns-clan.regular.0dbcd4bb.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 
-
 /* Page Loader */
+
 .js .loading::before,
 .js .loading::after {
 	content: '';
@@ -68,7 +68,6 @@ body {
 
 }
 
-
 @keyframes loaderAnim {
 	to {
 		opacity: 1;
@@ -94,6 +93,7 @@ a.link-alt {
 }
 
 /* Better focus styles from https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-visible */
+
 a:focus {
 	/* Provide a fallback style for browsers
 	 that don't support :focus-visible */
@@ -443,6 +443,7 @@ main {
 }
 
 /* banku logo */
+
 .banku {
     font-family: 'Shoguns Clan';
     font-weight: normal;
@@ -460,7 +461,7 @@ main {
 	color: transparent;
 	-webkit-text-stroke: 2px red;
   }
-  
+
 .banku span:nth-child(2) {
 	color: red;
 	animation: animate 4s ease-in-out infinite;
@@ -496,3 +497,5 @@ main {
 	  );
 	}
   }
+
+/*# sourceMappingURL=index.14f68720.css.map */
