@@ -188,6 +188,8 @@ main {
 	width: 100%;
 	border-radius: 12px;
 	will-change: transform;
+	border: 1px solid;
+	max-width: 330px;
 }
 
 .item__caption-title {
