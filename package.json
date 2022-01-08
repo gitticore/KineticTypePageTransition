@@ -1,5 +1,5 @@
 {
-  "name": "KineticTypePageTransition",
+  "name": "SwordOfVengenace",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/codrops/KineticTypePageTransition.git"
+    "url": "git://github.com/gitticore/SwordOfVengenace.git"
   },
   "keywords": [],
   "author": "Codrops",
   "license": "MIT",
   "homepage": "https://tympanus.net/codrops",
   "bugs": {
-    "url": "https://github.com/codrops/KineticTypePageTransition/issues"
+    "url": "https://github.com/gitticore/SwordOfVengenace.git"
   },
   "devDependencies": {
     "@parcel/transformer-image": "^2.0.0-rc.0",
