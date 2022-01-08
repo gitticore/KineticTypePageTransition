@@ -17,7 +17,7 @@
   "license": "MIT",
   "homepage": "https://tympanus.net/codrops",
   "bugs": {
-    "url": "https://github.com/gitticore/SwordOfVengenace.git"
+    "url": "https://github.com/gitticore/SwordOfVengenace/issues"
   },
   "devDependencies": {
     "@parcel/transformer-image": "^2.0.0-rc.0",
